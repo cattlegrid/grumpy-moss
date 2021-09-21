@@ -1,0 +1,6 @@
+version: "2.1"
+
+services:
+  grumpy-moss:
+    image: alanb128/grumpy-moss
+    privileged: true
