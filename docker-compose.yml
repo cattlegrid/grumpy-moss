@@ -4,3 +4,5 @@ services:
   grumpy-moss:
     image: alanb128/grumpy-moss
     privileged: true
+    ports:
+      - "80"
